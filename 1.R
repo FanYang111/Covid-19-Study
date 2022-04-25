@@ -4,7 +4,7 @@ library(ggplot2)
 library(kableExtra)
 library("pROC")
 
-# get package
+
 package <- show_package("64b54586-6180-4485-83eb-81e8fae3b8fe")
 package
 
